@@ -1,0 +1,14 @@
+/home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/deps/serde-f1a8a08037a68bcd.d: /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs
+
+/home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/deps/libserde-f1a8a08037a68bcd.rlib: /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs
+
+/home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/deps/libserde-f1a8a08037a68bcd.rmeta: /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs
+
+/home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/raphtalia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs:
+
+# env-dep:OUT_DIR=/home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out

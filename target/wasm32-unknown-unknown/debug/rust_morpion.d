@@ -1,0 +1,1 @@
+/home/raphtalia/rust_morpion/target/wasm32-unknown-unknown/debug/rust_morpion.wasm: /home/raphtalia/rust_morpion/src/app.rs /home/raphtalia/rust_morpion/src/grille.rs /home/raphtalia/rust_morpion/src/main.rs
