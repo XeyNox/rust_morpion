@@ -1,5 +1,6 @@
 use crate::{game_state::GameState, tile::Tile};
 
+#[derive(Clone, PartialEq)]
 pub struct Game {
     pub grid: [[Tile; 3]; 3],
     pub is_player1_turn: bool
@@ -7,6 +8,17 @@ pub struct Game {
 
 
 impl Game {
+    pub fn new() -> Self {
+        Self {
+            grid: [ [ Tile::Empty; 3]; 3 ],
+            is_player1_turn: true
+        }
+    }
+
+    pub fn get_tile(&self, pos: (usize, usize)) -> Tile {
+        return self.grid[pos.0][pos.1]
+    }
+
     pub fn get_game_state(&self) -> GameState {
         let rows_game_state = self.check_rows();
         if !rows_game_state.is_running() { 
